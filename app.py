@@ -8,4 +8,4 @@ while int(guess) != secret_word:
     elif guess < secret_word:
         print("Nagyobb szám kell!")
 
-print("Talált!!!")
+print("Talált!!! Ügyes vagy!")
